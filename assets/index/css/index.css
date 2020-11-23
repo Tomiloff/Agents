@@ -429,6 +429,7 @@ main {
     transform: translate(-50%, -0%);
     height: 115px;
     padding: 0 150px;
+    /*padding: 0 150px;*/
 }
 /*доп стиль*/
 .footer-slider {
